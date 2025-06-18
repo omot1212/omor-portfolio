@@ -1,2 +1,2 @@
-# omor-portfolio
+# omor faruk
 My personal portfolio website
